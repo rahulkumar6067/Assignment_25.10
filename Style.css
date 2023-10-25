@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://landing.zytheme.com/cobuild/assets/images/hero/1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.container h2{
+    padding-top: 20%;
+    color: white;
+    font-weight: bold;
+    font-size: 500%;
+}
+
+.container h5{
+    color: white;
+    padding-top: 2%;
+}
+.Services{
+    margin-top: 30%;
+}
+.Services h1{
+    text-align: center;
+    font-size: 50px;
+}
+.paragraph{
+    text-align: center;
+    font-size: 20px;
+}
+.mycard{
+    width: 80%;
+    margin: auto;
+}
+.card{
+    margin-top:5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mycard .card {
+    display: flex;
+    flex-direction: row;
+}
+.para2{
+margin-left: 10px;
+}
+.para3{
+    margin-left: 30px;
+}
+.operation i{
+    font-size: 45px;
+    margin-left: 60px;
+    color: yellow;
+}
+.operation h2{
+    margin-left: 30px;
+}
+.head{
+    text-align: center;
+     position: relative;
+    top: 10px;
+
+}
+.color{
+    padding-top: 5%;
+    margin-top: 5%;
+    background-color: rgb(226, 222, 222);
+    height: 1000px;
+}
+.head h1{
+    font-size: 60px;
+
+}
+.head p{
+    font-size: 20px;
+    
+}
+
+.head p a{
+    margin-top: 56px;
+    text-decoration: none;
+    color: rgb(95, 93, 93);
+}
+.image{
+    display: flex;
+    /* gap: 20px; */
+    justify-content: space-between;
+}
+.image1{
+    /* margin-top: 20px; */
+    position: relative;
+    top: 30px;
+    display: flex;
+    /* gap: 20px; */
+    justify-content: space-between;
+}
+
+
+
+  
